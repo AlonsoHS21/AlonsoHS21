@@ -1,6 +1,7 @@
 ## Hola, me llamo Alonso 👋 :technologist:
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![caracter-desarrollador-software-programador-desarrolla-ilustracion-codigo_80590-7310](https://user-images.githubusercontent.com/61801479/137608789-b9dd4fb6-9fdc-4004-bf78-21c8f377eb60.jpg)
+
 
 ```js
   const AlonsoHS21 = {
